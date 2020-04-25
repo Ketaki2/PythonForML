@@ -1,0 +1,12 @@
+How to become an expert in Exploratory Data Analysis(Backbone of Data Science project):
+
+More than 60-70% time is gone into Data Analysis->Feature engineering,data cleaning,Feature selection
+Exploratory Data Analysis dictates your model accuracy
+
+Techniques to become good at Exploratory Data Analysis:
+1.Feature Engineering:
+ - Handle the missing values(Have to be good at python,numpy,pandas,seaborn(helps in statistical analysis of the data),matplotlib) -> refer Kaggle kernels,blogs like towardsDataScience
+ - Handle categorical features [ In all these steps,try to find out different techniques to handle these scenarios)
+2. Practice problems.
+3. Practice the same problem with different techniques and see the impact on accuracy
+4. Maintain a cheatsheet of your findings and your preferred techniques for each stage in the lifecycle of a data science project
